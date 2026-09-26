@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+google-genai
+requests
+beautifulsoup4
+chromadb
+python-dotenv
+slowapi
+apscheduler
+
